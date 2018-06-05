@@ -4,8 +4,7 @@ CHANGES
 0.13.5 (unreleased)
 ===================
 
-- Nothing changed yet.
-
+- Only include the sortable component of jqueryui.
 
 0.13.4 (2015-12-14)
 ===================
