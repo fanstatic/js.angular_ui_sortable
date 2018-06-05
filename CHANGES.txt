@@ -1,7 +1,7 @@
 CHANGES
 *******
 
-0.13.5 (unreleased)
+0.13.5 (2018-06-05)
 ===================
 
 - Only include the sortable component of jqueryui.
